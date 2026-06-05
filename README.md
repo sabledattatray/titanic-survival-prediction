@@ -248,8 +248,7 @@ Titanic/
 
 **Datta Sable**
 
-- GitHub: https://github.com/YOUR_USERNAME
-- LinkedIn: https://linkedin.com/in/YOUR_PROFILE
+- LinkedIn: https://linkedin.com/in/dattasable
 - Portfolio: https://dattasable.com
 
 ---
