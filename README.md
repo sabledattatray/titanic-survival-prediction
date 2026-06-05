@@ -246,7 +246,7 @@ Titanic/
 
 ## 👨‍💻 Author
 
-**Sheetal Sable**
+**Datta Sable**
 
 - GitHub: https://github.com/YOUR_USERNAME
 - LinkedIn: https://linkedin.com/in/YOUR_PROFILE
