@@ -2,7 +2,7 @@
 
 A Machine Learning project built using Python and Scikit-learn to predict passenger survival on the Titanic dataset from Kaggle.
 
-![Titanic ML Project](./titanic-banner.png)
+![Titanic ML Project](./https://github.com/sabledattatray/titanic-survival-prediction/blob/main/Kagel%20Image%20Jun%206%2C%202026%2C%2002_45_26%20AM.png)
 
 ## 📌 Project Overview
 
